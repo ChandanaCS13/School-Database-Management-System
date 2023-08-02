@@ -1,5 +1,5 @@
 # School-Database-Management-System
-School database management is a project that manages and stores school information electronically according to school’s need. 
+School database management is a project that is built a Database for school using Php as backend, java as frontend and MYSQL as database.
 The system helps teachers to keep a constant track of all student’s data. It becomes necessary for school to keep a continuous check on the student’s performance and attendance status.
 In the software we can login as a user and user has three types :
 1)Student 
